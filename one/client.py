@@ -4,7 +4,6 @@
 
 import socket
 
-
 def client():
     # 创建套接字
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
